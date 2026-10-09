@@ -1,0 +1,7 @@
+streamlit==1.50.0
+plotly==6.8.0
+pandas==2.3.3
+httpx==0.28.1
+numpy>=1.26.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
